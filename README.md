@@ -21,7 +21,7 @@ Table of contents
 
 [E-Sign BSrE](https://bsre.bssn.go.id/) adalah package untuk memudahkan penggunaan API E-Sign dari BSSN dengan bahasa PHP
 
-## Instalisasi (Set Up)
+## Instalisasi
 
 Anda bisa install package via composer:
 
@@ -94,8 +94,8 @@ composer test
 Lihat [CHANGELOG](CHANGELOG.md) untuk informasi lebih lanjut terkait perubahan terbaru.
 
 ## Contributing
-<a href="https://github.com/Diskominfotik-Banda-Aceh/E-Sign-BSrE-PHP/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Diskominfotik-Banda-Aceh/E-Sign-BSrE-PHP" />
+<a href="https://github.com/skyzenaul/E-Sign-BSrE-PHP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=skyzenaul/E-Sign-BSrE-PHP" />
 </a>
 
 Lihat [CONTRIBUTING](CONTRIBUTING.md) untuk lebih detailnya.
