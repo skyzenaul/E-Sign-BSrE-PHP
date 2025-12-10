@@ -21,7 +21,7 @@ Table of contents
 
 [E-Sign BSrE](https://bsre.bssn.go.id/) adalah package untuk memudahkan penggunaan API E-Sign dari BSSN dengan bahasa PHP
 
-## Instalisasi
+## Instalisasi (Set Up)
 
 Anda bisa install package via composer:
 
